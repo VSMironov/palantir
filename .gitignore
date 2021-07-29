@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/palantir/config.ini
+
+# JetBrains PyCharm
+.idea/
